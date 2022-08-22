@@ -16,6 +16,7 @@
 ---
 ## 1. Introduction
 [![IMDB](https://i0.wp.com/zipporahcardozo.com/wp-content/uploads/2021/07/MV5BODc4MTA3NjkzNl5BMl5BcG5nXkFtZTgwMDg0MzQ2OTE@._V1_.png?resize=300%2C300 "IMDB")](https://i0.wp.com/zipporahcardozo.com/wp-content/uploads/2021/07/MV5BODc4MTA3NjkzNl5BMl5BcG5nXkFtZTgwMDg0MzQ2OTE@._V1_.png?resize=300%2C300 "IMDB")
+
 When it comes to movies, I feel it has become the most loved form of entertainment. Current growing rate of movies being launched and kind of revenue being generated is increasing day by day.
 
 There are various agencies which provide ratings to movies. This way people find out whether a movie is good enough to watch, how much revenue its making and many more.
