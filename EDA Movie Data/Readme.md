@@ -46,4 +46,4 @@ IMDb title pages also include a Metacritic Score for a title, as well as user re
 	- These ratings at one place serve us good quality movies and on other hand generate more revenue by funneling viewers to them.
 
 ---
-[Here is link to complete code in notebook](#)
+[Here is link to complete code in notebook](https://github.com/brij0707/Data-Science/blob/main/EDA%20Movie%20Data/IMDB%20Analysis%20on%20Movies%20Data.ipynb)
